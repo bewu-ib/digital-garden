@@ -153,7 +153,7 @@ Tylko szlachcic mógł produkować i sprzedawać alkohol.
 ## Apoteoza handlu gdańskiego
 Obraz przedstawiający relację Rzeczypospolitej szlacheckiej z Gdańskiem.
 
-![[apoteoza.png]]
+<img src="/assets/apoteoza.png" />
 
 - Podzielony na dwie strefy:
 	- ziemska strefa
