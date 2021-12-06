@@ -1,1 +1,2 @@
-[[reformacja-i-kontrreformacja]] [[spoleczenstwo-i-gospodarka-RP-XVI-wiek]]
+[[reformacja i kontrreformacja]]
+[[spoleczenstwo i gospodarka RP XVI wiek]]
