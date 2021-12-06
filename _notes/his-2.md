@@ -1,2 +1,1 @@
-3 - [[reformacja-i-kontrreformacja]]
-4 - [[spoleczenstwo-i-gospodarka-rp-xvi-wiek]]
+[[reformacja-i-kontrreformacja]] [[spoleczenstwo-i-gospodarka-RP-XVI-wiek]]
