@@ -5,6 +5,7 @@
 
 #### Przed:
 dichromian amonu:
+
 - proszek,
 - ceglasty kolor
 
@@ -13,6 +14,7 @@ dichromian amonu:
 
 #### Po:
 dichromian amonu:
+
 - ciemnozielony,
 - rozszerzył się
 
@@ -86,7 +88,7 @@ Nadmanganian potasu → $KMnO_{4}$
 #### W trakcie
 1. Dodanie probówki II do I
 
-#### Po
+#### Po:
 - żelazo rdzawe
 - powstaje osad $Fe(OH)_{3}$
 
