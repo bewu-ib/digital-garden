@@ -1,7 +1,7 @@
 # Eksperymenty redoks
 
 ## Rozkład termiczny dichromianu amonu
-### $(NH_{4})_{2}Cr_{2}O_{7}$
+### {% raw %}$(NH_{4})_{2}Cr_{2}O_{7}${% endraw %}
 
 #### Przed:
 dichromian amonu:
@@ -19,9 +19,9 @@ dichromian amonu:
 - rozszerzył się
 
 ### Równanie
-$Cr_{2}O_{3} + N_{2} + H_{2}O$
+{% raw %}$Cr_{2}O_{3} + N_{2} + H_{2}O${% endraw %}
 
-## Reakcja Na z $H_{2}O$
+## Reakcja Na z {% raw %}$H_{2}O${% endraw %}
 
 #### Przed:
 - woda w probówce,
@@ -52,13 +52,13 @@ $Cr_{2}O_{3} + N_{2} + H_{2}O$
 
 ## Utlenienie etanolu za pomocą dichromianu potasu w środowisku kwaśnym
 ### wzory
-etanol → $C_{2}H_{5}OH$ 
-dichromian potasu → $K_{2}Cr_{2}O_{7}$
+etanol → {% raw %}$C_{2}H_{5}OH${% endraw %}
+dichromian potasu → {% raw %}$K_{2}Cr_{2}O_{7}${% endraw %}
 
 #### Przed:
 - etanol w probówce
 	- dodany dichromian potasu (pomarańzczowy) 
-- kilka kropel $H_{2}SO_{4}$ oddzielnie
+- kilka kropel {% raw %}$H_{2}SO_{4}${% endraw %} oddzielnie
 
 #### W trakcie
 1. Kwas wlewamy do etanolu
@@ -68,12 +68,12 @@ dichromian potasu → $K_{2}Cr_{2}O_{7}$
 - dichromian ciemnieje na bardzo ciemny zielony (z pomarańczowego)
 
 ### Równanie
-$C_{2}H_{5}OH + K_{2}Cr_{2}O_{7} + K_{2}SO_{4}$ → $Cr_{2}(SO_{4})_{3}$
+{% raw %}$C_{2}H_{5}OH + K_{2}Cr_{2}O_{7} + K_{2}SO_{4}$ → $Cr_{2}(SO_{4})_{3}${% endraw %}
 
 ## Utlenianie żelaza (II) w postaci siarczanu (VI) żelaza (II) za pomocą $KMnO_{4}$ w kwaśnym środowisku
 
 ### Wzory
-Nadmanganian potasu → $KMnO_{4}$
+Nadmanganian potasu → {% raw %}$KMnO_{4}${% endraw %}
 
 #### Przed:
 - probówka I
@@ -83,30 +83,30 @@ Nadmanganian potasu → $KMnO_{4}$
 - probówka II
 	- woda
 	- nadmanganian potasu (kolor fioletowy) do wody 
-	- $H_{2}SO_{4}$ dodany
+	- {% raw %}$H_{2}SO_{4}${% endraw %} dodany
 
 #### W trakcie
 1. Dodanie probówki II do I
 
 #### Po:
 - żelazo rdzawe
-- powstaje osad $Fe(OH)_{3}$
+- powstaje osad {% raw %}$Fe(OH)_{3}${% endraw %}
 
 ### Równanie
-$FeSO_{4} + KMnO_{4} + H_{2}SO_{4}$ → $Fe_{2}(SO_{4})_{3} + K_{2}SO_{4} + MnSO_{4} + H_{2}O$
+{% raw %}$FeSO_{4} + KMnO_{4} + H_{2}SO_{4}$ → $Fe_{2}(SO_{4})_{3} + K_{2}SO_{4} + MnSO_{4} + H_{2}O${% endraw %}
 
 ## Spalanie magnezu
 tego ni mam D:
 
-## Rozkład katalityczny (z $MnO_{2}$) wody utlenionej ($H_{2}O_{2}$)
+## {% raw %}Rozkład katalityczny (z $MnO_{2}$) wody utlenionej ($H_{2}O_{2}$){% endraw %}
 
 #### Przed:
-- probówka z $H_{2}O_{2}$
+- probówka z {% raw %}$H_{2}O_{2}${% endraw %}
 
 #### W trakcie
-1. Wrzucamy $MnO_{2}$
+1. Wrzucamy {% raw %}$MnO_{2}${% endraw %}
 
 #### Po:
 - czarne
-- tworzy się $H_{2}O$, $O_{2}$
+- tworzy się {% raw %}$H_{2}O$, $O_{2}${% endraw %}
 
