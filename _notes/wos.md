@@ -1,7 +1,7 @@
 ### 1 klasa:
 
-- [[ samorzad terytorialny ]]
+- [[Samorzad terytorialny]]
 
 ### 2 klasa:
 
-- [[ wos 1 ]]
+- [[Wos 1]]
