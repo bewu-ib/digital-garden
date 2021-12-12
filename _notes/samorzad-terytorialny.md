@@ -1,15 +1,12 @@
----
----
-
 # Samorząd terytorialny
 
 samorząd -> forma organizacji wyodrębnionej grupy społecznej
 
-## hierarchia
+## Hierarchia samorządów terytorialnych
 województwo -> powiat -> gmina
 
-### - gmina
-##### zadania
+### - Gmina
+##### Zadania
 - własne:
 	- infrastruktura społeczna
 	*(szkoły, ochrona zdrowia)*
@@ -20,125 +17,151 @@ województwo -> powiat -> gmina
 
 [[#zadania jednostek#przykłady]]
 
-##### władze gminne
+##### Władze gminne
 **wybierane w wyborach powszechnych**
 
-- rada gminy
-	*(stanowiąca)*
-- wójt → w gminach wiejskich
-	burmistrz -> w gminach miejskich
-	prezydent -> gdy ponad 100 tys. mieszkańcy
-	*(wykonawczy)*
+- Władza stanowiąca
+	- rada gminy
+- Władza wykonawcza
+	- wójt → w gminach wiejskich
+	- burmistrz -> w gminach miejskich
+	- prezydent -> gdy ponad 100 tys. mieszkańcy
+
 - [[#referendum samorządowe|referendum gminne]]
 
-### - powiat
-##### zadania
+### - Powiat
+##### Zadania
 uzupełnia działania gminy -> **zasada pomocniczości**
 [[#zadania jednostek#przykłady]]
 
-##### organy powiatu
+##### Organy powiatu
 **wybierane w wyborach powszechnych**
 
-- rada powiatu
-	*(stanowiący, kontrolny)*
-- zarząd powiatu + **starosta**
-	*(wykonawczy)*
+- Rada powiatu
+	*(organ stanowiący, kontrolny)*
+- Zarząd powiatu + **starosta**
+	*(organ wykonawczy)*
 
-#### miasto na prawach powiatu
-**gdy ponad 100 tys. mieszkańców**
+#### Miasto na prawach powiatu
+**gdy miasto posiada ponad 100 tys. mieszkańców**
 
-##### organy
+##### Organy
 **wybierane w wyborach powszechnych**
 
-- rada miasta
-	*(stanowiący)*
-- zarząd miasta
-	*(wykonawczy)*
+- Rada miasta
+	*(organ stanowiący)*
+- Zarząd miasta
+	*(organ wykonawczy)*
 
-### - województwo
-#### administracja rządowa
-wojewoda *(wybierany przez premiera)* -> nadzór nad jednostkami samorządu
+### - Województwo
+#### Administracja rządowa
+Wojewoda *(wybierany przez premiera)* → nadzór nad jednostkami samorządu
 
-#### samorząd
-##### organy
-- sejmik wojewódzki
-	*(stanowiący, kontrolny)*
+#### Samorząd
+##### Organy
+- Sejmik wojewódzki — *(organ stanowiący, kontrolny)*
 	- stanowienie prawa miejscowego
 	- uchwalanie budżetu
-	- wybieranie **zarządu woj.**
-- zarząd wojewódzki + **marszałek**
-	*(wykonawczy)*
+	- wybieranie **zarządu wojewódzkiego**
+- Zarząd wojewódzki + **marszałek** — *(organ wykonawczy)*
 
-## zadania jednostek
-### podział
-#### zadania własne
-- zaspokojenie potrzeba lokalnej wspólnoty
-- we własnym imieniu, samodzielnie
-- władza centralna nie może ingerować
-- finansowane dochodami własnymi jednostki oraz subwencją ogólną
+## Zadania jednostek
+### Podział zadań
+#### Zadania własne
+- Zaspokajanie potrzeb lokalnej wspólnoty
+- We własnym imieniu, samodzielnie
+	- Władza centralna nie może ingerować
+	- Finansowane dochodami własnymi jednostki oraz subwencją ogólną
 
-#### zadania zlecone
-- w imieniu administracji rządowej
-- przekazywane samorządom ze względu na wykonanie wymagające znajomość lokalnych problemów
-- przykłady
-	- spis powszechny
-	- ewidencja ludności, ewidencja działalności gospodarczej
-	- przygotowanie wyborów powszechnych
-- finansowane przez dotacje celowe z budżetu państwa
+#### Zadania zlecone
+- W imieniu administracji rządowej
+	- Przekazywane samorządom ze względu na wykonanie wymagające znajomość lokalnych problemów
+	- Finansowane przez dotacje celowe z budżetu państwa
+- Przykłady
+	- Spis powszechny
+	- Ewidencja ludności, ewidencja działalności gospodarczej
+	- Przygotowanie wyborów powszechnych
 
-#### zadania powierzone
-- wykonywane na podstawie porozumień z innymi samorządami
-- przykład
+#### Zadania powierzone
+- Wykonywane na podstawie porozumień z innymi samorządami
+- Przykład
 	- powierzenie jednostkom przez wojewodów utrzymywanie grobów i cmentarzy wojennych
 
-### przykłady
-#### drogi
-gmina → chodniki, oświetlenie ulic, drogi lokalne
-powiat → drogi powiatowe
-województwo → drogi wojewódzkie
+### Przykłady zadań
+#### Drogi
+- Gmina
+	- chodniki, oświetlenie ulic, drogi lokalne
+- Powiat
+	- drogi powiatowe
+- Województwo
+	- drogi wojewódzkie
 
-#### edukacja
-**gmina** → przedszkola, szkoły podstawowe
-**powiat** → szkoły ponadpodstawowe
-województwo → ośrodki doskonalenia zaw. nauczycieli, szkoły specjalne
+#### Edukacja
+- **Gmina**
+	- przedszkola, szkoły podstawowe
+- **Powiat**
+	- szkoły ponadpodstawowe
+- Województwo
+	- ośrodki doskonalenia nauczycieli, 
+	- szkoły specjalne
 
-#### dziedziny życia publicznego
-gmina → parki
-powiat → **rejestracja pojazdów**
-województwo → **muzea oraz teatry**
+#### Dziedziny życia publicznego
+- Gmina
+	- parki
+- Powiat
+	- **rejestracja pojazdów**
+- Województwo 
+	- **muzea oraz teatry**
 
-#### służba zdrowia
-gmina → przychodnie
-powiat → szpitale powiatowe
-województwo → **szpitale specjalistyczne**
+#### Służba zdrowia
+- Gmina
+	- przychodnie
+- Powiat
+	- szpitale powiatowe
+- Województwo
+	- **szpitale specjalistyczne**
 
-#### inne
-gmina → pomoc społeczna, sieć kanalizacyjna, komunikacja publiczna, wysypiska śmieci, biblioteki, domy kultury, boiska, straż miejska
+#### Inne
+- Gmina
+	- pomoc społeczna, 
+	- sieć kanalizacyjna, 
+	- komunikacja publiczna, 
+	- wysypiska śmieci, 
+	- biblioteki, domy kultury, boiska, 
+	- straż miejska
 
-powiat → **urzędy pracy**, **nadzór budowlany**, **słuzby weteranyjne**, **domy dziecka**, **prawa konsumenta**
+- Powiat
+	- **urzędy pracy**, 
+	- **nadzór budowlany**, 
+	- **słuzby weteranyjne**, 
+	- **domy dziecka**, 
+	- **prawa konsumenta**
 
-województwo → koleje, autobusy regionalne, ochrona zabytków, rozdzielanie środków unijnych
+- Województwo
+	- koleje, autobusy regionalne, 
+	- ochrona zabytków, 
+	- rozdzielanie środków unijnych
 
-## źródła dochodu samorządu
-### dochody własne
-- wpływy z podatków lokalnych, opłat
-- środki uzyskiwane z majątku
-- część podatku dochodowego mieszkańców
+## Źródła dochodu samorządu
+### Dochody własne
+- Wpływy z podatków lokalnych, opłat
+- Środki uzyskiwane z majątku samorządu
+- Część podatku dochodowego mieszkańców
 
-### subwencja ogólna
-- środki z budżetu państwa, którymi samorząd może dowolnie dysponować
-- realizcja celów pozostających w zakresie kompetencji
+### Subwencja ogólna
+- Środki z budżetu państwa, którymi samorząd może dowolnie dysponować
+- Realizacja celów pozostających w zakresie kompetencji
 
-#### podział
+#### Podział subwencji
 - podstawowa
 - oświatowa
-- wyrównawcza -> dofinansowanie jednostek z **niższym od średniego krajowego** średniego dochodu
+- wyrównawcza -> dofinansowanie jednostek z **niższym od średniego krajowego** średnim dochodem
 - rekompensacyjna
 - drogowa
 
-### dotacje celowe
-- środki z budżetu państwa przeznaczone na konkretny cel określony przez organ władzy centralnej
-- przeznaczone na:
+### Dotacje celowe
+- Środki z budżetu państwa przeznaczone na konkretny cel określony przez organ władzy centralnej
+- Przeznaczone na:
 	- dofinansowanie zadań własnych samorządu
 		- inwestycje oświatowe
 		- wspieranie rozwoju edukacji
@@ -147,52 +170,54 @@ województwo → koleje, autobusy regionalne, ochrona zabytków, rozdzielanie ś
 	- zadania powierzone
 	- usuwanie bezpośrednich zagrożeń dla bezpieczeństwa i porządku publicznego
 	- realizacja zadań wynikających z umów międzynarodowych
-- na przykład:
+
+- Przykłady:
 	- remont szkoły podstawowej
 	- budowa chodnika
 	- renowacja zabytkowego budynku
 	- remont drogi lokalnej
 
-## organy samorządów
-### zadania organów stanowiących
-*gmina → rada gminy (miasta)*
-*powiat → rada powiatu*
-*województwo → sejmik województwa*
+## Organy samorządów
+### Zadania organów stanowiących
+*gmina → rada gminy (miasta)*;
+*powiat → rada powiatu*;
+*województwo → sejmik województwa*;
 
-- tworzenie aktów prawa miejscowego oraz statutu jedności samorządu
-- uchwalanie budżetu
-- rozpatrywanie sprawozdań z wykonania budżetu
-- decydowanie o wysokości podatków i opłat lokalnych
 
-### zadania organów wykonawczych
-*gmina → wójt (gminy wiejskie), burmistrz (gminy miejskie), prezydent (100 tys.)*
-*powiat → zarząd powiatu + starosta*
-*województwo → zarząd województwa + marszałek*
+- Tworzenie aktów prawa miejscowego oraz statutu jedności samorządu
+- Uchwalanie budżetu
+- Rozpatrywanie sprawozdań z wykonania budżetu
+- Decydowanie o wysokości podatków i opłat lokalnych
 
-- przygotowywanie projektów uchwał i ich wykonywanie
-- opracowywanie projektu budżetu i jego realizacja
-- gospodarowanie majątkiem jednostki samorządowej
-- zatrudnianie i zwalnianie kierowników instytucji samorządowych
+### Zadania organów wykonawczych
+*gmina → wójt (gminy wiejskie) / burmistrz (gminy miejskie) / prezydent (100 tys.)*;
+*powiat → zarząd powiatu + starosta*;
+*województwo → zarząd województwa + marszałek*;
 
-### referendum samorządowe
-może dotyczyć:
-- odwołanie organu władzy samorządu
-	*(np. rady gminnej, wójta)*
-- istotnych spraw społecznych lub kulturowych
-- samoopodatkowania się mieszkańców
-	*(na cele publiczne)*
+- Przygotowywanie projektów uchwał i ich wykonywanie
+- Opracowywanie projektu budżetu i jego realizacja
+- Gospodarowanie majątkiem jednostki samorządowej
+- Zatrudnianie i zwalnianie kierowników instytucji samorządowych
 
-## wpływ obywateli
-### budżet obywatelski
-- zazwyczaj do 1% wydatków budżetowych
-	- miasta na prawach powiatu co najmniej 0.5%
+### Referendum samorządowe
+Może dotyczyć:
+- Odwołanie organu władzy samorządu
+	- *(np. rady gminnej, wójta)*
+- Istotnych spraw społecznych lub kulturowych
+- Samo opodatkowania się mieszkańców
+	- *(na cele publiczne)*
 
-### obywatelska incijwatywa uchwałodawcza
-- od 100 do 300 osób 
-- zgłoszenie do gminnej rady propozycji uchwały zmieniającej lokalne prawo
+## Wpływ obywateli
+### Budżet obywatelski
+- Zazwyczaj do 1% wydatków budżetowych
+	- Miasta na prawach powiatu co najmniej 0.5%
 
-## podstawy konstytucyjne
-- zasada podziału terytorialnego
+### Obywatelska inicjatywa uchwałodawcza
+- Od 100 do 300 osób 
+- Zgłoszenie do gminnej rady propozycji uchwały zmieniającej lokalne prawo
+
+## Podstawy konstytucyjne dla samorządów terytorialnych
+- Zasada podziału terytorialnego
 	*(na 16 województw)*
-- zasada spójności państwa
-- rozdział VII
+- Zasada spójności państwa
+- Cały rozdział VII
