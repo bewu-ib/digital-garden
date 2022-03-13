@@ -283,3 +283,82 @@ Do skutków konfliktów zbrojnych należą:
 - Osłabienie gospodarki, **kryzys finansowy**,
 - **Izolacja** polityczna i gospodarcza,
 - Niszczenie **dorobku kulturowego** i dewastacja **środowiska przyrodniczego**.
+
+# Podstawowe wskaźniki rozwoju krajów
+
+## Przyczyny dysproporcji w rozwoju państw
+
+Czynniki wpływające na rozwój kraju:
+- **przyrodnicze**:
+	- ukształtowanie powierzchni, występowanie surowców naturalnych,
+- **historyczne**:
+	- dawna przynależność kolonialna,
+- **kulturowe**:
+	- religia w danym regionie, 
+	- poziom wykształcenia, otwartość na zmiany,
+- **polityczne**:
+	- rodzaj gospodarki:
+		- rynkowa – swoboda prowadzenia działalności gospodarczej,
+		- centralnie sterowana przez organy państwowe,
+	- aktualna sytuacja w kraju (wojna domowa, kryzys polityczny),
+- **ekonomiczne**:
+	- zasoby finansowe państwa.
+
+Od drugiej połowy **XX wieku** dysproporcje między najbogatszymi a najbiedniejszymi zaczęły rosnąć.
+
+## Produkt Krajowy Brutto
+
+**PKB** jest podstawowym miernikiem ekonomicznym, to wartość rynkowa **wszystkich dóbr i usług** wytworzonych w kraju.
+Do porównywania PKB jest przeliczana na jednego mieszkańca (*per capita*).
+
+O poziomie rozwoju gospodarczego w danym kraju mówi również **struktura wytwarzania PKB** według sektorów: **rolnictwo, przemysł, usługi**.
+W np. Niemczech i USA dominują **usługi**, a w państwach jak Mali czy Czad zaliczanych do grupy słabo rozwiniętych przeważa **rolnictwo**.
+
+## Wskaźnik rozwoju społecznego
+
+**HDI** to syntetyczny wskaźnik, który odzwierciedla różne dziedziny życia **społecznego i gospodarczego** danego państwa. Został opracowany na początku **lat 90. XX w**.
+
+Elementami HDI są:
+- oczekiwana **długość trwania życia** – kondycja zdrowotnej obywateli danego kraju,
+- **edukacja** – zdolność państwa do kształcenia obywateli:
+	- **oczekiwana** liczba lat edukacji,
+	- **średnia** liczba lat edukacji w wieku 25+,
+- **dochód narodowy** w przeliczeniu na osobę – zamożność obywateli.
+
+HDI używane jest przez wiele organizacji związanych z **ONZ**, na jego podstawie kraje świata zostały podzielone na **cztery grupy**: bardzo wysoki, wysoki, średni, niski poziom rozwoju.
+
+## Wielokryterialny wskaźnik ubóstwa
+
+**MPI** jest wyliczany przez **ONZ** dla krajów o najniższych HDI. 
+Badania dotyczą **trzech kluczowych elementów**:
+- zdrowie,
+- edukacja,
+- standard życia (np. wyposażenie gospodarstw domowych w elektryczność).
+
+MPI dotyczy około **100 krajów**, w których ubóstwo dotyczyło aż **1.3 mld ludzi**. W grupie państw najbiedniejszych dominują kraje **afrykańskie**.
+
+## Cechy państw o różnym poziomie rozwoju społeczno-gospodarczego
+
+#### Kraje o wysokim poziomie rozwoju
+- wysoka wartość PKB per capita (powyżej **15 tys. USD**),
+- dominacja **usług** w tworzeniu PKB,
+- wysoki udział w społeczeństwie **osób starszych**,
+- brak głodu, dostęp do produktów,
+- wysoki poziom **wykształcenia**,
+- rozwinięty przemysł zaawansowanych **technologi**.
+
+#### Kraje o średnim poziomie rozwoju
+- średni poziom PKB per capita (**2-15 tys. USD**),
+- znaczny udział usług w tworzeniu PKB, stosunkowo wysoki udział **przemysłu i rolnictwa**,
+- rosnący udział w społeczeństwie **osób starszych**,
+- niewielka ilość osób niedożywionych,
+- rosnący udział osób z **wykształceniem**, **utrzymujący się analfabetyzm**,
+- rozwój przemysłu przetwórczego i technologi.
+
+#### Kraje o niskim poziomie rozwoju
+- niski poziom PKB per capita (poniżej **2 tys. USD**),
+- dominacja **rolnictwa i przemysłu** w strukturze PKB,
+- niewielki udział w społeczeństwie **osób starszych**,
+- znaczny udział osób **głodujących**,
+- niski poziom **oświaty**, znaczny odsetek **analfabetów**,
+- zacofany technologicznie przemysł wydobywczy.
