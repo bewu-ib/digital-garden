@@ -10,18 +10,18 @@ Trzy elementy:
 
 Kraje terytorialne posiadają wody terytorialne, pas wód o maksymalnej szerokości 12 mil morskich.
 
-## **Terytoria zależne**
+## Terytoria zależne
 
 Terytoria zależne są obszarami o ograniczonej suwerenności, mają pewną autonomię, ale zostają w strefie wpływów innego kraju.
 
 Często wpływy wynikają z **kolonializmu**.
 
-## **Wielkie i mini- państwa**
-**Wielkie państwo — od 2 mln ${km}^2$
+## Wielkie i mini- państwa
+Wielkie państwo — od 2 mln km2
 
 Obecnie istnieje 12 wielkich państw, zajmują ponad połowę wszystkich lądów.
 
-**Minipaństwo** (państwo mikroskopijne) - poniżej 1000 ${km}^2$
+**Minipaństwo** (państwo mikroskopijne) - poniżej 1000 km2
 
 Znajduje się aktualnie 44 takich państw, a najmniejszym jest Watykan.
 
