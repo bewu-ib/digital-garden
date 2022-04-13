@@ -6,7 +6,7 @@
 - Jest to **dramat romantyczny**.
 
 ```ad-note
-title: **Dramat romantyczny**
+title: Dramat romantyczny
 
 - *wizje, sny*,
 - *objawienia*,
