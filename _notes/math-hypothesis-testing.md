@@ -87,7 +87,7 @@ Observed data (weight in grams of apples):
 $\bar{t_{1}}= 151.5$ – mean weight of *sample of apples* from 1st tree
 $\bar{t_2} = 156.3$ – mean weight of *sample of apples* from 2nd tree
 
-**$H_0$: Mean weight of apples from both trees is the same – $\mu_{1}=\mu_{2}$**
-**$H_1$: Mean weight of apples from both trees are different – $\mu_{1} \neq \mu_{2}$**
+**$H_0$**: Mean weight of apples from both trees is the same – $\mu_{1}=\mu_{2}$
+**$H_1$**: Mean weight of apples from both trees are different – $\mu_{1} \neq \mu_{2}$
 
 $p = 0.464 > 0.05$ – **no need to reject $H_0$**
